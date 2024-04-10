@@ -5,9 +5,9 @@ My Custom ArduinoLibraryforSTM32 - v1.0.0
 
 Rewritten and Developed Methods like Arduino Ones;
 
--Serial_begin()
+- Serial_begin()
 - serialPrint,()
 - serialPrintln()
 - digitalWrite()
 - pinMode()
--analogRead()
+- analogRead()
