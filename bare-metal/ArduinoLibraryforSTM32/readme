@@ -7,9 +7,9 @@ Programming Language: C
 
 Rewritten and Developed Methods like Arduino Ones;
 
-- Serial_begin()
-- serialPrint,()
-- serialPrintln()
-- digitalWrite()
-- pinMode()
+- Serial_begin(),
+- serialPrint(),
+- serialPrintln(),
+- digitalWrite(),
+- pinMode(),
 - analogRead()
