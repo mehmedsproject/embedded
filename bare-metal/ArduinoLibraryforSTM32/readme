@@ -1,0 +1,13 @@
+My Custom ArduinoLibraryforSTM32 - v1.0.0
+
+- for STM32f1xx Devices
+- for STM32F10C8T6 (BluePill) Board
+
+Rewritten and Developed Methods like Arduino Ones;
+
+-Serial_begin()
+- serialPrint,()
+- serialPrintln()
+- digitalWrite()
+- pinMode()
+-analogRead()
